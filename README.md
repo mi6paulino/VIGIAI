@@ -3,7 +3,7 @@ VCIS   BASE44    />                        <DataTable              title="Recent
 data encrypt
 base44
  code import
-encrypt data
+encrypt data ...
 encrypt
 AES (SYS)
 IMPORT
