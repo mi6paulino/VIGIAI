@@ -43,7 +43,7 @@ Use Events for Logging: Events are a cost-effective way to log changes and actio
 Add Comments and Documentation: Well-documented code is easier to understand and maintain. Use comments to explain complex logic and document the purpose of functions and variables.
 
 
-
+..
 
 Optimize Gas Usage: Minimize the use of expensive operations and loops. Use mappings and other data structures efficiently to reduce gas costs.
 
