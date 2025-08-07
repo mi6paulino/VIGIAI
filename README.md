@@ -4,6 +4,7 @@ data encrypt
 base44
  code import
 encrypt data ...
+encrypt import formsrc cntrl
 encrypt
 AES (SYS)
 IMPORT
